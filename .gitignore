@@ -1,0 +1,21 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+.env.local
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+temp_uploads/
+reports/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
